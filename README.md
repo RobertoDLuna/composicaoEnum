@@ -1,14 +1,14 @@
-# OO e Composição de Objetos em Java - Aulão #004
+# OO e Composição de Objetos em Java
 ###### DevSuperior - sua carreira dev com fundamento de ensino superior
 
 Projeto feito no curso de Java da Udemy
 
 ## Sumário
-- [O que você vai aprender](#O-que-você-vai-aprender)
+- [O que você será feito](#O-que-você-vai-aprender)
 - [Pré-requisitos](#pré-requisitos)
 - [Enunciado do exercício](#Enunciado-do-exercício)
 
-## O que você vai aprender
+## O que você será feito
 - Composição de objetos
 - Tipos enumerados (enumerações)
 
